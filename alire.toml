@@ -1,0 +1,12 @@
+name = "ada95course"
+description = "cd ada95course"
+version = "0.1.0-dev"
+
+authors = ["Giammaria Scardella"]
+maintainers = ["Giammaria Scardella <giammaria.scardella@protonmail.com>"]
+maintainers-logins = ["Enoidd"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = ["ada", "ada95", "learning"]
+
+executables = ["ada95course"]
